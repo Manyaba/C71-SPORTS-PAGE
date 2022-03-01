@@ -1,0 +1,53 @@
+
+
+.book
+{
+  cursor:pointer;
+}
+
+.sport hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+    height: 500px;
+    width:500px;
+   
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+.img_size{
+ height: 255px;
+ text-align: center;
+  width: 255px;
+}
+.modal-title{
+  text-align: center;
+}
+.text-primary{
+  text-align: center;
+}
+.text-capitalize {
+  font-family: 'Lobster';
+  text-align: center;
+}
+.container{
+ background-color :#def3f7; 
+ 
+}
+
+
